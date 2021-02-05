@@ -1,5 +1,7 @@
 # Home Credit Default Risk
 
+The data from this project was collected from [this](https://www.kaggle.com/c/home-credit-default-risk) kaggle competition.
+
 ## Summary
 
 Data Science can play a huge role in Risk Management. This project shows how to use approximately 60 million rows of historical transactional data from multiple data sources in order to predict the default risk of a home credit loan applicant. Engineering of over 600 features, gradient boosted tree model XGBoost, and Bayesian Hyperparameter Optimization were used which resulted in an Area Under the ROC Curve (AUC) score of 0.795. This netted an increase of 0.051 when using traditional Logistic Regression.
