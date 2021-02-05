@@ -1,6 +1,6 @@
 # Home Credit Default Risk
 
-The data from this project was collected from [this](https://www.kaggle.com/c/home-credit-default-risk) kaggle competition.
+The data from this project was collected from [this](https://www.kaggle.com/c/home-credit-default-risk) kaggle competition. See the Jupyter Notebook for the work done to solve this problem.
 
 ## Summary
 
